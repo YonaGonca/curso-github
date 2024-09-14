@@ -1,4 +1,4 @@
-# curso-github
+# repositorio para el curso
 Repo para Github
 
 ## descripcion
